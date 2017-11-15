@@ -2,7 +2,7 @@
 Flickr web application example 
 
 This example is using node.js, express.js as a server.
-Also using grunt as a task runner for the build process
+Also using webpack as a task runner for the build process
 
 # Building and Running the app
  1. run npm install
